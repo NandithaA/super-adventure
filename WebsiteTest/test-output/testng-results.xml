@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21921" started-at="2018-02-06T21:21:25Z" finished-at="2018-02-06T21:21:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21921" started-at="2018-02-06T21:21:25Z" finished-at="2018-02-06T21:21:47Z">
+      <class name="com.superadventure.HomePageTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.superadventure.HomePageTest@47c62251]" name="launchBrowser" is-config="true" duration-ms="16816" started-at="2018-02-06T13:21:25Z" finished-at="2018-02-06T13:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="loadWebPage()[pri:0, instance:com.superadventure.HomePageTest@47c62251]" name="loadWebPage" is-config="true" duration-ms="5" started-at="2018-02-06T13:21:42Z" finished-at="2018-02-06T13:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadWebPage -->
+        <test-method status="PASS" signature="clickOnLogin()[pri:0, instance:com.superadventure.HomePageTest@47c62251]" name="clickOnLogin" duration-ms="2886" started-at="2018-02-06T13:21:42Z" finished-at="2018-02-06T13:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLogin -->
+        <test-method status="PASS" signature="loadWebPage()[pri:0, instance:com.superadventure.HomePageTest@47c62251]" name="loadWebPage" is-config="true" duration-ms="1" started-at="2018-02-06T13:21:44Z" finished-at="2018-02-06T13:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadWebPage -->
+        <test-method status="PASS" signature="visibilityOfNavigationBarRight()[pri:0, instance:com.superadventure.HomePageTest@47c62251]" name="visibilityOfNavigationBarRight" duration-ms="60" started-at="2018-02-06T13:21:44Z" finished-at="2018-02-06T13:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visibilityOfNavigationBarRight -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.superadventure.HomePageTest@47c62251]" name="closeBrowser" is-config="true" duration-ms="2132" started-at="2018-02-06T13:21:44Z" finished-at="2018-02-06T13:21:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.superadventure.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
